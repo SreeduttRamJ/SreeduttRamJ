@@ -15,18 +15,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sukrith-sunil&count_private=true&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SreeduttRamJ&count_private=true&show_icons=true&theme=radical" />
     </td>
      <td>
-        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=sukrith-sunil&theme=dark&hide_border=false"/>
+        <img height=210px src="https://github-readme-streak-stats.herokuapp.com/?user=SreeduttRamJ&theme=dark&hide_border=false"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukrith-sunil&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeduttRamJ&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 <p align="center"> 
   View Count<br>
-  <img src="https://profile-counter.glitch.me/sukrith-sunil/count.svg" />
+  <img src="https://profile-counter.glitch.me/SreeduttRamJ/count.svg" />
 </p>
-<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
